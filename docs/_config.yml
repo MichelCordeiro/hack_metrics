@@ -1,0 +1,36 @@
+# Site settings
+name: Michel Cordeiro
+description: "Agile Coach - Facilitator - Development Management"
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  MichelCordeiro
+facebook_username: michel.cordeiro.79
+twitter_username: code_shell
+linkedin_username: michelcordeiro
+stack_of_username: 43080/michel-cordeiro
+blog_url: "https://michelcordeiro.github.io/blog/"
+email: pere.cordeiro@gmail.com
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "imgs/michel.png"
+
+
+front_img: yes
+front_img_path: "imgs/slz.jpeg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
